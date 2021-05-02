@@ -13,7 +13,7 @@
 	<tr>
 		<th width="100%">
 			<p><a title="Enable developer mode"></a> Enable developer mode and Load unpacked extension
-			<p><img src="./media/Chrome-extension-instructions.png">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800473-0724d400-aac7-11eb-99c9-01f0dc2ac882.png">
 </table>
 
 ## Highlights
@@ -21,21 +21,21 @@
 	<tr>
 		<th width="50%">
 			<p><a title="Improve Zapier UX by 10x"></a> Improve Zapier UX by 10x 
-			<p><img src="./media/dashboard.png">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800477-08560100-aac7-11eb-8153-71f11c0212b4.png">
 		<th width="50%">
 			<p><a title="Track changes with commit messages"></a> Track changes with commit messages
-			<p><img src="./media/commit-message.png">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800476-07bd6a80-aac7-11eb-8fc7-def57e94f594.png">
 	<tr>
 		<th width="50%">
 			<p><a title="Detailed history of all the commits"></a> Detailed history of all the commits
-			<p><img src="./media/commit-details.png">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800474-07bd6a80-aac7-11eb-84c1-573d0ef8e5ad.png">
 		<th width="50%">
 			<p><a title="Filter by Folder or Zap"></a> Filter by Folder or Zap
-			<p><img src="./media/folder-search.gif">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800478-08560100-aac7-11eb-872c-b7364947c5c2.gif">
   <tr>
 		<th width="50%">
 			<p><a title="Detailed history of all the commits"></a> Name your zap before publishing
-			<p><img src="./media/name_before_publish.gif">
+			<p><img src="https://user-images.githubusercontent.com/24255434/116800479-08560100-aac7-11eb-82bf-b7e1623a45e7.gif">
 </table>
 
 
